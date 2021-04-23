@@ -1,0 +1,14 @@
+body {
+  background-color: lightgray;
+
+  width: 100%;
+}
+
+.row {
+  margin-top: 60px;
+  grid-row: 1 / span 2;
+}
+.btn-large {
+  width: 100%;
+  margin-top: 10px;
+}
