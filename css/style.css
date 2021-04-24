@@ -12,3 +12,8 @@ body {
   width: 100%;
   margin-top: 10px;
 }
+
+.graph {
+  position: relative;
+  bottom: 70px;
+}
